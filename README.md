@@ -1,2 +1,3 @@
 # one_tine_snippet_starter_with-rewards
 snippet codes to start a single snippet once after restart/crash for Catlandia.
+This code is for three separate snippets which have to be registered separately. "run", "chk" and "bin". These codes manage the start for a fourth snippit ("A_run_all" - not included), which have to start just once after restart/crash. "chk" code can be placed in a snippet button at a public place so that every player can start all snippets just once per server run. The player receives a small gift as a thank you. This reward can be received once per server run.
